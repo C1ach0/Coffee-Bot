@@ -1,0 +1,30 @@
+{
+  "clienttoken": "",
+
+  "Note_Token:":"Put Your Bot Token Above (If your using replit then make a new secret 'clienttoken' and put ur bot token there... and then keep this string empty)",
+
+  "clientname": "Coffee",
+
+  "clientid": "1030502734140555265",
+
+  "TestingServerID": "1030552587323318302",
+
+  "clientavatar":"https://cdn.discordapp.com/avatars/1030502734140555265/d6dc80493e4caa60490baaa83277e937.jpeg",
+
+  "prefix": "²",
+
+  "developerID": ["358629612584173568"],
+  "phone": "0632759705",
+
+  "Note_DevId": "It's possible to add others people in developerID",
+
+  "colorthemecode":"#FF5733 (Not Neccessary.)",
+  
+  "randomMessages_Cooldown": ["Slow It Down Fam...", "Spam Isn't Cool Fam....", "Never Gonna Let You Down"],
+
+  "botdashToken": "",
+
+  "NOTE:" : "IF YOU DONT PUT STUFF HERE IT WILL THROW ERRS"
+}
+
+
